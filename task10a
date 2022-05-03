@@ -1,571 +1,1099 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T19:20:43.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.47" etag="PZTDnXIQxMDXd69Pnx-g" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T16:18:51.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.75" etag="tpzoDsr_coREtN73Zd5x" version="17.4.5" type="github">
   <diagram id="SGxOWdBUO5L7W_dvvre2" name="Page-1">
-    <mxGraphModel dx="2550" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1855" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-1" value="Список автогонщиков" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-1" value="Список автогонщиков" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-3" value="Запасной гонщик" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="470" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-3" value="Запасной гонщик" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-4" value="Номера основных гонщиков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="47" y="470" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-4" value="Номера основных гонщиков" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-5" value="Два основных&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7" y="430" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-5" value="Два основных&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="440" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-6" value="Название производителя мотора" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-6" value="Название производителя мотора" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-7" value="Название команды" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="27" y="330" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-7" value="Название команды" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="110" width="50" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-9" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="475" y="120" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607" y="195" width="50" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-11" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="303.5" y="205" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310.5" y="195" width="50" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-12" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="475" y="310" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="300" width="50" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-13" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="304" y="405" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="395" width="50" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-14" value="Составы команд" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-14" value="Составы команд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="107" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-15" value="Результат соревнований" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-15" value="Результат данного автогонщика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-16" value="Календарь чемпионата" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-16" value="Календарь чемпионата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-17" value="Страна гонщика" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="145" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-17" value="Страна гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="57" y="135" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-18" value="Даты рождения" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="175" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-18" value="Даты рождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="17" y="165" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-19" value="Имя" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="210" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-19" value="Имя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7" y="200" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-20" value="Фамилия" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-20" value="Фамилия" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="27" y="240" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-21" value="Страны происхождения" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-21" value="Страны происхождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="470" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-14" target="BOOa3LGJHpKeaLLBYLbo-21">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-14" target="BOOa3LGJHpKeaLLBYLbo-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="317" y="500" as="sourcePoint" />
-            <mxPoint x="367" y="450" as="targetPoint" />
+            <mxPoint x="310" y="510" as="sourcePoint" />
+            <mxPoint x="360" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="BOOa3LGJHpKeaLLBYLbo-14">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="BOOa3LGJHpKeaLLBYLbo-14" edge="1" source="BOOa3LGJHpKeaLLBYLbo-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="147" y="490" as="sourcePoint" />
-            <mxPoint x="97" y="550" as="targetPoint" />
+            <mxPoint x="160" y="500" as="sourcePoint" />
+            <mxPoint x="90" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-4" target="BOOa3LGJHpKeaLLBYLbo-14">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-4" target="BOOa3LGJHpKeaLLBYLbo-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="27" y="520" as="sourcePoint" />
-            <mxPoint x="77" y="470" as="targetPoint" />
+            <mxPoint x="20" y="530" as="sourcePoint" />
+            <mxPoint x="70" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-5" target="BOOa3LGJHpKeaLLBYLbo-14">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-5" target="BOOa3LGJHpKeaLLBYLbo-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-43" y="340" as="sourcePoint" />
-            <mxPoint x="7" y="290" as="targetPoint" />
+            <mxPoint x="-50" y="350" as="sourcePoint" />
+            <mxPoint y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-6" target="BOOa3LGJHpKeaLLBYLbo-14">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-6" target="BOOa3LGJHpKeaLLBYLbo-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-43" y="410" as="sourcePoint" />
-            <mxPoint x="7" y="360" as="targetPoint" />
+            <mxPoint x="-50" y="420" as="sourcePoint" />
+            <mxPoint y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-7" target="BOOa3LGJHpKeaLLBYLbo-14">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-7" target="BOOa3LGJHpKeaLLBYLbo-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="177" y="370" as="sourcePoint" />
-            <mxPoint x="227" y="320" as="targetPoint" />
+            <mxPoint x="170" y="380" as="sourcePoint" />
+            <mxPoint x="220" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-28" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-1" target="BOOa3LGJHpKeaLLBYLbo-11">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-28" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-1" target="BOOa3LGJHpKeaLLBYLbo-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="267" y="300" as="sourcePoint" />
-            <mxPoint x="317" y="250" as="targetPoint" />
+            <mxPoint x="260" y="310" as="sourcePoint" />
+            <mxPoint x="310" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-29" value="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-11" target="BOOa3LGJHpKeaLLBYLbo-15">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-29" value="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-11" target="BOOa3LGJHpKeaLLBYLbo-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="257" y="290" as="sourcePoint" />
-            <mxPoint x="307" y="240" as="targetPoint" />
+            <mxPoint x="250" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-30" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-12" target="BOOa3LGJHpKeaLLBYLbo-15">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-30" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-12" target="BOOa3LGJHpKeaLLBYLbo-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="417" y="340" as="sourcePoint" />
-            <mxPoint x="467" y="300" as="targetPoint" />
+            <mxPoint x="410" y="350" as="sourcePoint" />
+            <mxPoint x="460" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-31" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-16" target="BOOa3LGJHpKeaLLBYLbo-12">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-31" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-16" target="BOOa3LGJHpKeaLLBYLbo-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="317" y="350" as="sourcePoint" />
-            <mxPoint x="367" y="300" as="targetPoint" />
+            <mxPoint x="310" y="360" as="sourcePoint" />
+            <mxPoint x="360" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-32" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-14" target="BOOa3LGJHpKeaLLBYLbo-13">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-32" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-14" target="BOOa3LGJHpKeaLLBYLbo-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="257" y="460" as="sourcePoint" />
-            <mxPoint x="307" y="410" as="targetPoint" />
+            <mxPoint x="250" y="470" as="sourcePoint" />
+            <mxPoint x="300" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-33" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-13" target="BOOa3LGJHpKeaLLBYLbo-16">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-33" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-13" target="BOOa3LGJHpKeaLLBYLbo-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="327" y="340" as="sourcePoint" />
-            <mxPoint x="377" y="290" as="targetPoint" />
+            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-35" value="Даты проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="517" y="470" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-35" value="Даты проведения" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-36" value="Номер гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="470" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-36" value="Номер гран-при" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-37" value="Название гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="387" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-37" value="Название гран-при" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-38" value="Количество побед гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="127" y="120" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-38" value="Количество побед гонщика" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-20" target="BOOa3LGJHpKeaLLBYLbo-1">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-39" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-20" target="BOOa3LGJHpKeaLLBYLbo-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="87" y="370" as="sourcePoint" />
-            <mxPoint x="137" y="320" as="targetPoint" />
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="130" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-19" target="BOOa3LGJHpKeaLLBYLbo-1">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-19" target="BOOa3LGJHpKeaLLBYLbo-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-43" y="290" as="sourcePoint" />
-            <mxPoint x="7" y="240" as="targetPoint" />
+            <mxPoint x="-50" y="300" as="sourcePoint" />
+            <mxPoint y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-18" target="BOOa3LGJHpKeaLLBYLbo-1">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-18" target="BOOa3LGJHpKeaLLBYLbo-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-33" y="320" as="sourcePoint" />
-            <mxPoint x="17" y="270" as="targetPoint" />
+            <mxPoint x="-40" y="330" as="sourcePoint" />
+            <mxPoint x="10" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-17" target="BOOa3LGJHpKeaLLBYLbo-1">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-17" target="BOOa3LGJHpKeaLLBYLbo-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="7" y="180" as="sourcePoint" />
-            <mxPoint x="67" y="130" as="targetPoint" />
+            <mxPoint y="190" as="sourcePoint" />
+            <mxPoint x="60" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-1" target="BOOa3LGJHpKeaLLBYLbo-38">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-1" target="BOOa3LGJHpKeaLLBYLbo-38" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-13" y="160" as="sourcePoint" />
-            <mxPoint x="37" y="110" as="targetPoint" />
+            <mxPoint x="-20" y="170" as="sourcePoint" />
+            <mxPoint x="30" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-45" value="Количество заработанных очков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-45" value="Количество заработанных очков" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="564" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-46" value="Занятое место" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="387" y="260" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-46" value="Занятое место" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-47" value="Место проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607" y="420" width="60" height="30" as="geometry" />
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-47" value="Место проведения" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="764" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-48" value="Страна проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="460" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-49" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-47" target="BOOa3LGJHpKeaLLBYLbo-16">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-35" target="BOOa3LGJHpKeaLLBYLbo-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="647" y="350" as="sourcePoint" />
-            <mxPoint x="697" y="300" as="targetPoint" />
+            <mxPoint x="330" y="350" as="sourcePoint" />
+            <mxPoint x="380" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-50" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-48" target="BOOa3LGJHpKeaLLBYLbo-16">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-36" target="BOOa3LGJHpKeaLLBYLbo-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="637" y="320" as="sourcePoint" />
-            <mxPoint x="687" y="270" as="targetPoint" />
+            <mxPoint x="320" y="380" as="sourcePoint" />
+            <mxPoint x="370" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-35" target="BOOa3LGJHpKeaLLBYLbo-16">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-37" target="BOOa3LGJHpKeaLLBYLbo-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="337" y="340" as="sourcePoint" />
-            <mxPoint x="387" y="290" as="targetPoint" />
+            <mxPoint x="230" y="380" as="sourcePoint" />
+            <mxPoint x="280" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-52" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-36" target="BOOa3LGJHpKeaLLBYLbo-16">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-54" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-46" target="BOOa3LGJHpKeaLLBYLbo-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="327" y="370" as="sourcePoint" />
-            <mxPoint x="377" y="320" as="targetPoint" />
+            <mxPoint x="280" y="310" as="sourcePoint" />
+            <mxPoint x="330" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-53" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-37" target="BOOa3LGJHpKeaLLBYLbo-16">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-55" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-69" target="BOOa3LGJHpKeaLLBYLbo-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="237" y="370" as="sourcePoint" />
-            <mxPoint x="287" y="320" as="targetPoint" />
+            <mxPoint x="610" y="220" as="sourcePoint" />
+            <mxPoint x="660" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.692;exitY=0.042;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-46" target="BOOa3LGJHpKeaLLBYLbo-15">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-56" value="Причина схода" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-57" value="Время затраченное на гонку" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-65" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-69" target="BOOa3LGJHpKeaLLBYLbo-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="287" y="300" as="sourcePoint" />
-            <mxPoint x="337" y="250" as="targetPoint" />
+            <mxPoint x="750" y="80" as="sourcePoint" />
+            <mxPoint x="970" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-55" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-15" target="BOOa3LGJHpKeaLLBYLbo-45">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-66" value="Количество кругов лидирования" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-67" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-66" target="BOOa3LGJHpKeaLLBYLbo-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="617" y="210" as="sourcePoint" />
-            <mxPoint x="667" y="160" as="targetPoint" />
+            <mxPoint x="500" y="190" as="sourcePoint" />
+            <mxPoint x="550" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-56" value="Причина схода" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="767" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-57" value="Время затраченное на гонку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="697" y="290" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-60" value="1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BOOa3LGJHpKeaLLBYLbo-15">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-68" value="м" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-9" target="BOOa3LGJHpKeaLLBYLbo-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="607" y="210" as="sourcePoint" />
-            <mxPoint x="587" y="80" as="targetPoint" />
+            <mxPoint x="660" y="210" as="sourcePoint" />
+            <mxPoint x="710" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-62" value="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-10" target="BOOa3LGJHpKeaLLBYLbo-63">
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-69" value="Результат данного автогонщика" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BOOa3LGJHpKeaLLBYLbo-70" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="BOOa3LGJHpKeaLLBYLbo-9" target="BOOa3LGJHpKeaLLBYLbo-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="667" y="190" as="sourcePoint" />
-            <mxPoint x="717" y="140" as="targetPoint" />
+            <mxPoint x="380" y="170" as="sourcePoint" />
+            <mxPoint x="430" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-63" value="Время или причина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="697" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-64" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-57" target="BOOa3LGJHpKeaLLBYLbo-63">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-69" target="BOOa3LGJHpKeaLLBYLbo-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="857" y="370" as="sourcePoint" />
-            <mxPoint x="907" y="320" as="targetPoint" />
+            <mxPoint x="660" y="230" as="sourcePoint" />
+            <mxPoint x="710" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-65" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-63" target="BOOa3LGJHpKeaLLBYLbo-56">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="405" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-11" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-16" target="YHTAE8VbkjSxKTOd614J-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="927" y="310" as="sourcePoint" />
-            <mxPoint x="977" y="260" as="targetPoint" />
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-66" value="Количество кругов лидирования" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="377" y="135" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-12" value="Страна проведения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-67" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-66" target="BOOa3LGJHpKeaLLBYLbo-15">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-13" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-9" target="YHTAE8VbkjSxKTOd614J-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="507" y="180" as="sourcePoint" />
-            <mxPoint x="557" y="130" as="targetPoint" />
+            <mxPoint x="740" y="310" as="sourcePoint" />
+            <mxPoint x="790" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-68" value="м" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-9" target="BOOa3LGJHpKeaLLBYLbo-15">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-12" target="BOOa3LGJHpKeaLLBYLbo-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="667" y="200" as="sourcePoint" />
-            <mxPoint x="717" y="150" as="targetPoint" />
+            <mxPoint x="670" y="330" as="sourcePoint" />
+            <mxPoint x="720" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-69" value="Результат" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-16" value="Список автогонщиков" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-70" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-9" target="BOOa3LGJHpKeaLLBYLbo-69">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-17" value="Запасной гонщик" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-18" value="Номера основных гонщиков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-19" value="Два основных&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-20" value="Название производителя мотора" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-21" value="Название команды" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-22" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="205" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="405" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-26" value="Составы команд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-27" value="Результат соревнований" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-28" value="Календарь чемпионата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-29" value="Страна гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-30" value="Даты рождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-31" value="Имя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-32" value="Фамилия" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-33" value="Страны происхождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-26" target="YHTAE8VbkjSxKTOd614J-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="387" y="160" as="sourcePoint" />
-            <mxPoint x="437" y="110" as="targetPoint" />
+            <mxPoint x="310" y="510" as="sourcePoint" />
+            <mxPoint x="360" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-71" value="Список автогонщиков" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-633" y="755" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-72" value="Запасной гонщик" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-623" y="1065" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-73" value="Номера основных гонщиков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-693" y="1045" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-74" value="Два основных&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-733" y="1005" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-75" value="Название производителя мотора" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-733" y="955" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-76" value="Название команды" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-713" y="905" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-77" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-258" y="685" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-78" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-133" y="770" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-79" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-429.5" y="770" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-80" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-258" y="875" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-81" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-429" y="970" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-82" value="Составы команд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-633" y="955" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-83" value="Результат данного автогонщика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="755" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-84" value="Календарь чемпионата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="955" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-85" value="Страна гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-683" y="710" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-86" value="Даты рождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-723" y="740" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-87" value="Имя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-733" y="775" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-88" value="Фамилия" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-713" y="815" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-89" value="Страны происхождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-553" y="1045" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-90" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-82" target="BOOa3LGJHpKeaLLBYLbo-89">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-17" target="YHTAE8VbkjSxKTOd614J-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-423" y="1075" as="sourcePoint" />
-            <mxPoint x="-373" y="1025" as="targetPoint" />
+            <mxPoint x="160" y="500" as="sourcePoint" />
+            <mxPoint x="90" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-91" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-72" target="BOOa3LGJHpKeaLLBYLbo-82">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-18" target="YHTAE8VbkjSxKTOd614J-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-693" y="1175" as="sourcePoint" />
-            <mxPoint x="-643" y="1125" as="targetPoint" />
+            <mxPoint x="20" y="530" as="sourcePoint" />
+            <mxPoint x="70" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-92" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-73" target="BOOa3LGJHpKeaLLBYLbo-82">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-19" target="YHTAE8VbkjSxKTOd614J-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-713" y="1095" as="sourcePoint" />
-            <mxPoint x="-663" y="1045" as="targetPoint" />
+            <mxPoint x="-50" y="350" as="sourcePoint" />
+            <mxPoint y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-93" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-74" target="BOOa3LGJHpKeaLLBYLbo-82">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-20" target="YHTAE8VbkjSxKTOd614J-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-783" y="915" as="sourcePoint" />
-            <mxPoint x="-733" y="865" as="targetPoint" />
+            <mxPoint x="-50" y="420" as="sourcePoint" />
+            <mxPoint y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-75" target="BOOa3LGJHpKeaLLBYLbo-82">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-39" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-21" target="YHTAE8VbkjSxKTOd614J-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-783" y="985" as="sourcePoint" />
-            <mxPoint x="-733" y="935" as="targetPoint" />
+            <mxPoint x="170" y="380" as="sourcePoint" />
+            <mxPoint x="220" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-95" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-76" target="BOOa3LGJHpKeaLLBYLbo-82">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-40" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-16" target="YHTAE8VbkjSxKTOd614J-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-563" y="945" as="sourcePoint" />
-            <mxPoint x="-513" y="895" as="targetPoint" />
+            <mxPoint x="260" y="310" as="sourcePoint" />
+            <mxPoint x="310" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-96" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-71" target="BOOa3LGJHpKeaLLBYLbo-79">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-41" value="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-23" target="YHTAE8VbkjSxKTOd614J-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-473" y="875" as="sourcePoint" />
-            <mxPoint x="-423" y="825" as="targetPoint" />
+            <mxPoint x="250" y="300" as="sourcePoint" />
+            <mxPoint x="300" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-97" value="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-79" target="BOOa3LGJHpKeaLLBYLbo-83">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-42" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-24" target="YHTAE8VbkjSxKTOd614J-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-483" y="865" as="sourcePoint" />
-            <mxPoint x="-433" y="815" as="targetPoint" />
+            <mxPoint x="410" y="350" as="sourcePoint" />
+            <mxPoint x="460" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-99" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-84" target="BOOa3LGJHpKeaLLBYLbo-80">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-43" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-28" target="YHTAE8VbkjSxKTOd614J-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-423" y="925" as="sourcePoint" />
-            <mxPoint x="-373" y="875" as="targetPoint" />
+            <mxPoint x="310" y="360" as="sourcePoint" />
+            <mxPoint x="360" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-100" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-82" target="BOOa3LGJHpKeaLLBYLbo-81">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-44" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-26" target="YHTAE8VbkjSxKTOd614J-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-483" y="1035" as="sourcePoint" />
-            <mxPoint x="-433" y="985" as="targetPoint" />
+            <mxPoint x="250" y="470" as="sourcePoint" />
+            <mxPoint x="300" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-101" value="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-81" target="BOOa3LGJHpKeaLLBYLbo-84">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-45" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-25" target="YHTAE8VbkjSxKTOd614J-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-413" y="915" as="sourcePoint" />
-            <mxPoint x="-363" y="865" as="targetPoint" />
+            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-102" value="Даты проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-223" y="1045" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-46" value="Даты проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-103" value="Номер гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="1045" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-47" value="Номер гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-104" value="Название гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-353" y="1025" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-48" value="Название гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-105" value="Количество побед гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-613" y="695" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-49" value="Количество побед гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-106" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-88" target="BOOa3LGJHpKeaLLBYLbo-71">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-32" target="YHTAE8VbkjSxKTOd614J-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-653" y="945" as="sourcePoint" />
-            <mxPoint x="-603" y="895" as="targetPoint" />
+            <mxPoint x="80" y="380" as="sourcePoint" />
+            <mxPoint x="130" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-107" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-87" target="BOOa3LGJHpKeaLLBYLbo-71">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-31" target="YHTAE8VbkjSxKTOd614J-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-783" y="865" as="sourcePoint" />
-            <mxPoint x="-733" y="815" as="targetPoint" />
+            <mxPoint x="-50" y="300" as="sourcePoint" />
+            <mxPoint y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-108" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-86" target="BOOa3LGJHpKeaLLBYLbo-71">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-30" target="YHTAE8VbkjSxKTOd614J-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-773" y="895" as="sourcePoint" />
-            <mxPoint x="-723" y="845" as="targetPoint" />
+            <mxPoint x="-40" y="330" as="sourcePoint" />
+            <mxPoint x="10" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-109" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-85" target="BOOa3LGJHpKeaLLBYLbo-71">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-29" target="YHTAE8VbkjSxKTOd614J-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-733" y="755" as="sourcePoint" />
-            <mxPoint x="-673" y="705" as="targetPoint" />
+            <mxPoint y="190" as="sourcePoint" />
+            <mxPoint x="60" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-110" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-71" target="BOOa3LGJHpKeaLLBYLbo-105">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-16" target="YHTAE8VbkjSxKTOd614J-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-753" y="735" as="sourcePoint" />
-            <mxPoint x="-703" y="685" as="targetPoint" />
+            <mxPoint x="-20" y="170" as="sourcePoint" />
+            <mxPoint x="30" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-111" value="Количество заработанных очков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-173" y="835" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-55" value="Количество заработанных очков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="564" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-112" value="Занятое место" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-353" y="835" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-56" value="Занятое место" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-113" value="Место проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-133" y="995" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-57" value="Место проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="764" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-114" value="Страна проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-153" y="1035" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-115" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-113" target="BOOa3LGJHpKeaLLBYLbo-84">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-58" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-46" target="YHTAE8VbkjSxKTOd614J-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-93" y="925" as="sourcePoint" />
-            <mxPoint x="-43" y="875" as="targetPoint" />
+            <mxPoint x="330" y="350" as="sourcePoint" />
+            <mxPoint x="380" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-116" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-114" target="BOOa3LGJHpKeaLLBYLbo-84">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-47" target="YHTAE8VbkjSxKTOd614J-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-103" y="895" as="sourcePoint" />
-            <mxPoint x="-53" y="845" as="targetPoint" />
+            <mxPoint x="320" y="380" as="sourcePoint" />
+            <mxPoint x="370" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-117" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-102" target="BOOa3LGJHpKeaLLBYLbo-84">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-60" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-48" target="YHTAE8VbkjSxKTOd614J-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-403" y="915" as="sourcePoint" />
-            <mxPoint x="-353" y="865" as="targetPoint" />
+            <mxPoint x="230" y="380" as="sourcePoint" />
+            <mxPoint x="280" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-118" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-103" target="BOOa3LGJHpKeaLLBYLbo-84">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-61" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-56" target="YHTAE8VbkjSxKTOd614J-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-413" y="945" as="sourcePoint" />
-            <mxPoint x="-363" y="895" as="targetPoint" />
+            <mxPoint x="280" y="310" as="sourcePoint" />
+            <mxPoint x="330" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-119" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-104" target="BOOa3LGJHpKeaLLBYLbo-84">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-62" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-69" target="YHTAE8VbkjSxKTOd614J-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-503" y="945" as="sourcePoint" />
-            <mxPoint x="-453" y="895" as="targetPoint" />
+            <mxPoint x="610" y="220" as="sourcePoint" />
+            <mxPoint x="660" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-120" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.692;exitY=0.042;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-112" target="BOOa3LGJHpKeaLLBYLbo-83">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-63" value="Причина схода" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-64" value="Время затраченное на гонку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-65" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-69" target="YHTAE8VbkjSxKTOd614J-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-453" y="875" as="sourcePoint" />
-            <mxPoint x="-403" y="825" as="targetPoint" />
+            <mxPoint x="750" y="80" as="sourcePoint" />
+            <mxPoint x="970" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-121" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-83" target="BOOa3LGJHpKeaLLBYLbo-111">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-66" value="Количество кругов лидирования" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-67" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-66" target="YHTAE8VbkjSxKTOd614J-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-123" y="785" as="sourcePoint" />
-            <mxPoint x="-73" y="735" as="targetPoint" />
+            <mxPoint x="500" y="190" as="sourcePoint" />
+            <mxPoint x="550" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-122" value="Причина схода" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="27" y="865" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-123" value="Время затраченное на гонку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-43" y="865" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-124" value="1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BOOa3LGJHpKeaLLBYLbo-83">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-68" value="м" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-22" target="YHTAE8VbkjSxKTOd614J-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-133" y="785" as="sourcePoint" />
-            <mxPoint x="-153" y="655" as="targetPoint" />
+            <mxPoint x="660" y="210" as="sourcePoint" />
+            <mxPoint x="710" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-125" value="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-78" target="BOOa3LGJHpKeaLLBYLbo-126">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-69" value="Результат данного автогонщика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-70" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-22" target="YHTAE8VbkjSxKTOd614J-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-73" y="765" as="sourcePoint" />
-            <mxPoint x="-23" y="715" as="targetPoint" />
+            <mxPoint x="380" y="170" as="sourcePoint" />
+            <mxPoint x="430" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-126" value="Время или причина" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-43" y="755" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-127" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-123" target="BOOa3LGJHpKeaLLBYLbo-126">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-71" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-69" target="YHTAE8VbkjSxKTOd614J-64">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="117" y="945" as="sourcePoint" />
-            <mxPoint x="167" y="895" as="targetPoint" />
+            <mxPoint x="660" y="230" as="sourcePoint" />
+            <mxPoint x="710" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-128" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-126" target="BOOa3LGJHpKeaLLBYLbo-122">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-72" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="405" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-73" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-28" target="YHTAE8VbkjSxKTOd614J-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="187" y="885" as="sourcePoint" />
-            <mxPoint x="237" y="835" as="targetPoint" />
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-129" value="Количество кругов лидирования" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-363" y="710" width="60" height="30" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-74" value="Страна проведения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-130" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-129" target="BOOa3LGJHpKeaLLBYLbo-83">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-75" value="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-72" target="YHTAE8VbkjSxKTOd614J-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-233" y="755" as="sourcePoint" />
-            <mxPoint x="-183" y="705" as="targetPoint" />
+            <mxPoint x="740" y="310" as="sourcePoint" />
+            <mxPoint x="790" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-131" value="м" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-77" target="BOOa3LGJHpKeaLLBYLbo-83">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-76" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-74" target="YHTAE8VbkjSxKTOd614J-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-73" y="775" as="sourcePoint" />
-            <mxPoint x="-23" y="725" as="targetPoint" />
+            <mxPoint x="670" y="330" as="sourcePoint" />
+            <mxPoint x="720" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-132" value="Результат" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="YHTAE8VbkjSxKTOd614J-140" value="Список автогонщиков" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-133" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-77" target="BOOa3LGJHpKeaLLBYLbo-132">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-141" value="Запасной гонщик" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="864" y="1130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-142" value="Номера основных гонщиков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="774" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-143" value="Два основных&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-144" value="Название производителя мотора" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="1030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-145" value="Название команды" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-146" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1209" y="760" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-147" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="845" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-148" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1209" y="950" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-149" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1038" y="1045" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-150" value="Составы команд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="834" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-151" value="Результат соревнований" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-152" value="Календарь чемпионата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-153" value="Страна гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="784" y="785" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-154" value="Даты рождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="744" y="815" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-155" value="Имя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="744" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-156" value="Фамилия" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-157" value="Страны происхождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="934" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-158" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-150" target="YHTAE8VbkjSxKTOd614J-157">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-353" y="735" as="sourcePoint" />
-            <mxPoint x="-303" y="685" as="targetPoint" />
+            <mxPoint x="1044" y="1150" as="sourcePoint" />
+            <mxPoint x="1094" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BOOa3LGJHpKeaLLBYLbo-134" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BOOa3LGJHpKeaLLBYLbo-80" target="BOOa3LGJHpKeaLLBYLbo-83">
+        <mxCell id="YHTAE8VbkjSxKTOd614J-159" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-141" target="YHTAE8VbkjSxKTOd614J-150">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-573" y="925" as="sourcePoint" />
-            <mxPoint x="-523" y="875" as="targetPoint" />
+            <mxPoint x="894" y="1140" as="sourcePoint" />
+            <mxPoint x="824" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-160" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-142" target="YHTAE8VbkjSxKTOd614J-150">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="754" y="1170" as="sourcePoint" />
+            <mxPoint x="804" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-161" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-143" target="YHTAE8VbkjSxKTOd614J-150">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="990" as="sourcePoint" />
+            <mxPoint x="734" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-162" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-144" target="YHTAE8VbkjSxKTOd614J-150">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="1060" as="sourcePoint" />
+            <mxPoint x="734" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-163" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-145" target="YHTAE8VbkjSxKTOd614J-150">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="904" y="1020" as="sourcePoint" />
+            <mxPoint x="954" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-164" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-140" target="YHTAE8VbkjSxKTOd614J-147">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="994" y="950" as="sourcePoint" />
+            <mxPoint x="1044" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-165" value="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-147" target="YHTAE8VbkjSxKTOd614J-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="984" y="940" as="sourcePoint" />
+            <mxPoint x="1034" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-166" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-148" target="YHTAE8VbkjSxKTOd614J-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1144" y="990" as="sourcePoint" />
+            <mxPoint x="1194" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-167" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-152" target="YHTAE8VbkjSxKTOd614J-148">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1044" y="1000" as="sourcePoint" />
+            <mxPoint x="1094" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-168" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-150" target="YHTAE8VbkjSxKTOd614J-149">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="984" y="1110" as="sourcePoint" />
+            <mxPoint x="1034" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-169" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-149" target="YHTAE8VbkjSxKTOd614J-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1054" y="990" as="sourcePoint" />
+            <mxPoint x="1104" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-170" value="Даты проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-171" value="Номер гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-172" value="Название гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-173" value="Количество побед гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-174" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-156" target="YHTAE8VbkjSxKTOd614J-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="814" y="1020" as="sourcePoint" />
+            <mxPoint x="864" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-175" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-155" target="YHTAE8VbkjSxKTOd614J-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="940" as="sourcePoint" />
+            <mxPoint x="734" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-176" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-154" target="YHTAE8VbkjSxKTOd614J-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="694" y="970" as="sourcePoint" />
+            <mxPoint x="744" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-177" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-153" target="YHTAE8VbkjSxKTOd614J-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="734" y="830" as="sourcePoint" />
+            <mxPoint x="794" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-178" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-140" target="YHTAE8VbkjSxKTOd614J-173">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="810" as="sourcePoint" />
+            <mxPoint x="764" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-179" value="Количество заработанных очков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-180" value="Занятое место" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-181" value="Место проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1498" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-182" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-170" target="YHTAE8VbkjSxKTOd614J-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1064" y="990" as="sourcePoint" />
+            <mxPoint x="1114" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-183" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-171" target="YHTAE8VbkjSxKTOd614J-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1054" y="1020" as="sourcePoint" />
+            <mxPoint x="1104" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-184" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-172" target="YHTAE8VbkjSxKTOd614J-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="964" y="1020" as="sourcePoint" />
+            <mxPoint x="1014" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-185" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-180" target="YHTAE8VbkjSxKTOd614J-193">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1014" y="950" as="sourcePoint" />
+            <mxPoint x="1064" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-186" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-193" target="YHTAE8VbkjSxKTOd614J-179">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1344" y="860" as="sourcePoint" />
+            <mxPoint x="1394" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-187" value="Причина схода" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-188" value="Время затраченное на гонку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="675" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-189" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-193" target="YHTAE8VbkjSxKTOd614J-187">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1484" y="720" as="sourcePoint" />
+            <mxPoint x="1704" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-190" value="Количество кругов лидирования" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-191" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-190" target="YHTAE8VbkjSxKTOd614J-193">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1234" y="830" as="sourcePoint" />
+            <mxPoint x="1284" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-192" value="м" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-146" target="YHTAE8VbkjSxKTOd614J-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1394" y="850" as="sourcePoint" />
+            <mxPoint x="1444" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-193" value="Результат данного автогонщика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-194" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-146" target="YHTAE8VbkjSxKTOd614J-193">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1114" y="810" as="sourcePoint" />
+            <mxPoint x="1164" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-195" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-193" target="YHTAE8VbkjSxKTOd614J-188">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1394" y="870" as="sourcePoint" />
+            <mxPoint x="1444" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-196" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1354" y="1045" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-197" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-152" target="YHTAE8VbkjSxKTOd614J-196">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1124" y="1010" as="sourcePoint" />
+            <mxPoint x="1174" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-198" value="Страна проведения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1468" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-199" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-196" target="YHTAE8VbkjSxKTOd614J-198">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1474" y="950" as="sourcePoint" />
+            <mxPoint x="1524" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-200" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-198" target="YHTAE8VbkjSxKTOd614J-181">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1404" y="970" as="sourcePoint" />
+            <mxPoint x="1454" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-201" value="Список автогонщиков" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-202" value="Запасной гонщик" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="864" y="1130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-203" value="Номера основных гонщиков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="774" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-204" value="Два основных&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-205" value="Название производителя мотора" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="1030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-206" value="Название команды" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-207" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1209" y="760" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-208" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1037.5" y="845" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-209" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1209" y="950" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-210" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1038" y="1045" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-211" value="Составы команд" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="834" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-212" value="Результат соревнований" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-213" value="Календарь чемпионата" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-214" value="Страна гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="784" y="785" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-215" value="Даты рождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="744" y="815" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-216" value="Имя" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="744" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-217" value="Фамилия" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-218" value="Страны происхождения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="934" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-219" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-211" target="YHTAE8VbkjSxKTOd614J-218">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1044" y="1150" as="sourcePoint" />
+            <mxPoint x="1094" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-220" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-202" target="YHTAE8VbkjSxKTOd614J-211">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="894" y="1140" as="sourcePoint" />
+            <mxPoint x="824" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-221" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-203" target="YHTAE8VbkjSxKTOd614J-211">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="754" y="1170" as="sourcePoint" />
+            <mxPoint x="804" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-222" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-204" target="YHTAE8VbkjSxKTOd614J-211">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="990" as="sourcePoint" />
+            <mxPoint x="734" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-223" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-205" target="YHTAE8VbkjSxKTOd614J-211">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="1060" as="sourcePoint" />
+            <mxPoint x="734" y="1010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-224" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-206" target="YHTAE8VbkjSxKTOd614J-211">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="904" y="1020" as="sourcePoint" />
+            <mxPoint x="954" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-225" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-201" target="YHTAE8VbkjSxKTOd614J-208">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="994" y="950" as="sourcePoint" />
+            <mxPoint x="1044" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-226" value="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-208" target="YHTAE8VbkjSxKTOd614J-212">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="984" y="940" as="sourcePoint" />
+            <mxPoint x="1034" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-227" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-209" target="YHTAE8VbkjSxKTOd614J-212">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1144" y="990" as="sourcePoint" />
+            <mxPoint x="1194" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-228" value="м" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-213" target="YHTAE8VbkjSxKTOd614J-209">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1044" y="1000" as="sourcePoint" />
+            <mxPoint x="1094" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-229" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-211" target="YHTAE8VbkjSxKTOd614J-210">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="984" y="1110" as="sourcePoint" />
+            <mxPoint x="1034" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-230" value="1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-210" target="YHTAE8VbkjSxKTOd614J-213">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1054" y="990" as="sourcePoint" />
+            <mxPoint x="1104" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-231" value="Даты проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-232" value="Номер гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-233" value="Название гран-при" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1114" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-234" value="Количество побед гонщика" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-235" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-217" target="YHTAE8VbkjSxKTOd614J-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="814" y="1020" as="sourcePoint" />
+            <mxPoint x="864" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-236" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-216" target="YHTAE8VbkjSxKTOd614J-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="684" y="940" as="sourcePoint" />
+            <mxPoint x="734" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-237" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-215" target="YHTAE8VbkjSxKTOd614J-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="694" y="970" as="sourcePoint" />
+            <mxPoint x="744" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-238" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-214" target="YHTAE8VbkjSxKTOd614J-201">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="734" y="830" as="sourcePoint" />
+            <mxPoint x="794" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-239" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-201" target="YHTAE8VbkjSxKTOd614J-234">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="714" y="810" as="sourcePoint" />
+            <mxPoint x="764" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-240" value="Количество заработанных очков" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-241" value="Занятое место" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1094" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-242" value="Место проведения" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1498" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-243" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-231" target="YHTAE8VbkjSxKTOd614J-213">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1064" y="990" as="sourcePoint" />
+            <mxPoint x="1114" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-244" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-232" target="YHTAE8VbkjSxKTOd614J-213">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1054" y="1020" as="sourcePoint" />
+            <mxPoint x="1104" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-245" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-233" target="YHTAE8VbkjSxKTOd614J-213">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="964" y="1020" as="sourcePoint" />
+            <mxPoint x="1014" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-246" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-241" target="YHTAE8VbkjSxKTOd614J-254">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1014" y="950" as="sourcePoint" />
+            <mxPoint x="1064" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-247" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-254" target="YHTAE8VbkjSxKTOd614J-240">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1344" y="860" as="sourcePoint" />
+            <mxPoint x="1394" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-248" value="Причина схода" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1144" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-249" value="Время затраченное на гонку" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344" y="675" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-250" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-254" target="YHTAE8VbkjSxKTOd614J-248">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1484" y="720" as="sourcePoint" />
+            <mxPoint x="1704" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-251" value="Количество кругов лидирования" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1064" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-252" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-251" target="YHTAE8VbkjSxKTOd614J-254">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1234" y="830" as="sourcePoint" />
+            <mxPoint x="1284" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-253" value="м" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-207" target="YHTAE8VbkjSxKTOd614J-212">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1394" y="850" as="sourcePoint" />
+            <mxPoint x="1444" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-254" value="Результат данного автогонщика" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-255" value="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-207" target="YHTAE8VbkjSxKTOd614J-254">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1114" y="810" as="sourcePoint" />
+            <mxPoint x="1164" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-256" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-254" target="YHTAE8VbkjSxKTOd614J-249">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1394" y="870" as="sourcePoint" />
+            <mxPoint x="1444" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-257" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1354" y="1045" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-258" value="м" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-213" target="YHTAE8VbkjSxKTOd614J-257">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1124" y="1010" as="sourcePoint" />
+            <mxPoint x="1174" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-259" value="Страна проведения" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1468" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-260" value="м" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-257" target="YHTAE8VbkjSxKTOd614J-259">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1474" y="950" as="sourcePoint" />
+            <mxPoint x="1524" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHTAE8VbkjSxKTOd614J-261" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHTAE8VbkjSxKTOd614J-259" target="YHTAE8VbkjSxKTOd614J-242">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1404" y="970" as="sourcePoint" />
+            <mxPoint x="1454" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
