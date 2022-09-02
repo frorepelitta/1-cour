@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T07:51:37.931Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54 (Edition Yx 05)" etag="pg7sQXmCv7t7vBtBKVZk" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T07:52:39.838Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54 (Edition Yx 05)" etag="1I0Bcrb4HsaqFv4s6drc" version="20.2.8" type="github">
   <diagram id="9wx6JyTRQ3IxCqDkxweB" name="Страница 1">
     <mxGraphModel dx="2084" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eQU85CLvtmhbO05ulc1L-20" value="Самолет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
