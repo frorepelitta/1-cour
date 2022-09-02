@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T07:57:34.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54 (Edition Yx 05)" etag="_AslOMBR3Lukj27qo7Bg" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T07:58:21.677Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54 (Edition Yx 05)" etag="neUlPDoAnibPbmjHx7TE" version="20.2.8" type="github">
   <diagram id="9wx6JyTRQ3IxCqDkxweB" name="Страница 1">
     <mxGraphModel dx="2084" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -175,17 +175,26 @@
         <mxCell id="eQU85CLvtmhbO05ulc1L-20" value="Самолет" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-750" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eQU85CLvtmhbO05ulc1L-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eQU85CLvtmhbO05ulc1L-20" target="8dp724j7B6rKjIRby_pD-29">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-470" y="750" as="sourcePoint" />
-            <mxPoint x="-420" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eQU85CLvtmhbO05ulc1L-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eQU85CLvtmhbO05ulc1L-22" target="8dp724j7B6rKjIRby_pD-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eQU85CLvtmhbO05ulc1L-22" value="Трехбуквенный код" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eQU85CLvtmhbO05ulc1L-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eQU85CLvtmhbO05ulc1L-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eQU85CLvtmhbO05ulc1L-20" target="eQU85CLvtmhbO05ulc1L-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="720" as="sourcePoint" />
+            <mxPoint x="-570" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eQU85CLvtmhbO05ulc1L-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eQU85CLvtmhbO05ulc1L-24" target="8dp724j7B6rKjIRby_pD-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-530" y="790" as="sourcePoint" />
+            <mxPoint x="-480" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
