@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T06:20:44.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84 (Edition Yx 05)" etag="S4gqf-w0ofMPpkM1VY6Q" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-09T06:21:23.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84 (Edition Yx 05)" etag="uhas0E9lnJhKJttzE-ul" version="20.3.0" type="github">
   <diagram id="-xL4BW4DQeYdBTl_ofsR" name="Страница 1">
     <mxGraphModel dx="2580" dy="2383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -267,6 +267,12 @@
             <mxPoint x="570" y="50" as="sourcePoint" />
             <mxPoint x="620" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7ybeEn04Z8w1Pc4LctVw-1" value="Аэропорт вылета" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7ybeEn04Z8w1Pc4LctVw-2" value="Аэрипорт прилета&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
